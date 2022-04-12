@@ -33,7 +33,3 @@ linkedin
 <img src="https://github.com/anuraghazra/github-readme-stats" >
 </details>
 
-
-[youtube]: https://www.youtube.com/channel/UCtY3oCvJMt0KU7nAw1nZECQ
-[twitter]:https://twitter.com/gokhanyil8
-[linkedin]:https://www.linkedin.com/in/gökhan-yıldırım-19g3499/
